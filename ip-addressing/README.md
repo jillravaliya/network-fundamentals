@@ -233,4 +233,8 @@ When I saw `192.168.10.11` on the machine’s screen, I couldn’t resist breaki
 > That curiosity led me straight into **subnetting practice** —  
 > where I went from just seeing IPs to actually calculating and designing them.
 
-👉 I documented that full breakdown in **subnetting-real-examples.md**
+---
+
+👉 **I documented that full breakdown here → [`subnetting-real-examples.md`](../subnetting-real-examples.md)**  
+
+---
